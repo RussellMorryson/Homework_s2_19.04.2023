@@ -55,21 +55,25 @@ public class Task_1 {
     }
 
     static String FormatResultString(ArrayList<String> Words) {
-        String Result = "";
+        StringBuilder sb = new StringBuilder();
         int count = 1;
         for (String temp : Words) {
             if (count == 1) {
-                Result += "Студент " + temp;
+                sb.append("Студент ");
+                sb.append(temp);                
                 count++;
             }
             else if (count == 2) {
-                Result += " получил " +temp;
+                sb.append(" получил "); 
+                sb.append(temp);
                 count++;
             }
             else if (count == 3) {
-                Result += " по предмету " + temp + ".";
-                WriteToFile(Result);
-                Result = "";
+                sb.append(" по предмету ");
+                sb.append(temp);
+                sb.append(".");
+                WriteToFile(sb.toString());  
+                sb.delete(0,100);              
                 count = 1;
             }
         }
