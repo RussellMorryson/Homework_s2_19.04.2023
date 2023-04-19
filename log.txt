@@ -1,0 +1,200 @@
+1. i= 0, j= 0, temp: 0, array[i]: 4, array[j]: 4
+Result: temp= 4, array[i]= 4, array[j]= 4
+2. i= 0, j= 1, temp: 4, array[i]: 4, array[j]: 8
+Result: temp= 4, array[i]= 8, array[j]= 4
+3. i= 0, j= 2, temp: 4, array[i]: 8, array[j]: 6
+Result: temp= 4, array[i]= 8, array[j]= 6
+4. i= 0, j= 3, temp: 4, array[i]: 8, array[j]: 5
+Result: temp= 4, array[i]= 8, array[j]= 5
+5. i= 0, j= 4, temp: 4, array[i]: 8, array[j]: 2
+Result: temp= 4, array[i]= 8, array[j]= 2
+6. i= 0, j= 5, temp: 4, array[i]: 8, array[j]: 3
+Result: temp= 4, array[i]= 8, array[j]= 3
+7. i= 0, j= 6, temp: 4, array[i]: 8, array[j]: 7
+Result: temp= 4, array[i]= 8, array[j]= 7
+8. i= 0, j= 7, temp: 4, array[i]: 8, array[j]: 1
+Result: temp= 4, array[i]= 8, array[j]= 1
+9. i= 0, j= 8, temp: 4, array[i]: 8, array[j]: 9
+Result: temp= 8, array[i]= 9, array[j]= 8
+10. i= 0, j= 9, temp: 8, array[i]: 9, array[j]: 4
+Result: temp= 8, array[i]= 9, array[j]= 4
+11. i= 1, j= 0, temp: 8, array[i]: 4, array[j]: 9
+Result: temp= 4, array[i]= 9, array[j]= 4
+12. i= 1, j= 1, temp: 4, array[i]: 9, array[j]: 9
+Result: temp= 9, array[i]= 9, array[j]= 9
+13. i= 1, j= 2, temp: 9, array[i]: 9, array[j]: 6
+Result: temp= 9, array[i]= 9, array[j]= 6
+14. i= 1, j= 3, temp: 9, array[i]: 9, array[j]: 5
+Result: temp= 9, array[i]= 9, array[j]= 5
+15. i= 1, j= 4, temp: 9, array[i]: 9, array[j]: 2
+Result: temp= 9, array[i]= 9, array[j]= 2
+16. i= 1, j= 5, temp: 9, array[i]: 9, array[j]: 3
+Result: temp= 9, array[i]= 9, array[j]= 3
+17. i= 1, j= 6, temp: 9, array[i]: 9, array[j]: 7
+Result: temp= 9, array[i]= 9, array[j]= 7
+18. i= 1, j= 7, temp: 9, array[i]: 9, array[j]: 1
+Result: temp= 9, array[i]= 9, array[j]= 1
+19. i= 1, j= 8, temp: 9, array[i]: 9, array[j]: 8
+Result: temp= 9, array[i]= 9, array[j]= 8
+20. i= 1, j= 9, temp: 9, array[i]: 9, array[j]: 4
+Result: temp= 9, array[i]= 9, array[j]= 4
+21. i= 2, j= 0, temp: 9, array[i]: 6, array[j]: 4
+Result: temp= 9, array[i]= 6, array[j]= 4
+22. i= 2, j= 1, temp: 9, array[i]: 6, array[j]: 9
+Result: temp= 6, array[i]= 9, array[j]= 6
+23. i= 2, j= 2, temp: 6, array[i]: 9, array[j]: 9
+Result: temp= 9, array[i]= 9, array[j]= 9
+24. i= 2, j= 3, temp: 9, array[i]: 9, array[j]: 5
+Result: temp= 9, array[i]= 9, array[j]= 5
+25. i= 2, j= 4, temp: 9, array[i]: 9, array[j]: 2
+Result: temp= 9, array[i]= 9, array[j]= 2
+26. i= 2, j= 5, temp: 9, array[i]: 9, array[j]: 3
+Result: temp= 9, array[i]= 9, array[j]= 3
+27. i= 2, j= 6, temp: 9, array[i]: 9, array[j]: 7
+Result: temp= 9, array[i]= 9, array[j]= 7
+28. i= 2, j= 7, temp: 9, array[i]: 9, array[j]: 1
+Result: temp= 9, array[i]= 9, array[j]= 1
+29. i= 2, j= 8, temp: 9, array[i]: 9, array[j]: 8
+Result: temp= 9, array[i]= 9, array[j]= 8
+30. i= 2, j= 9, temp: 9, array[i]: 9, array[j]: 4
+Result: temp= 9, array[i]= 9, array[j]= 4
+31. i= 3, j= 0, temp: 9, array[i]: 5, array[j]: 4
+Result: temp= 9, array[i]= 5, array[j]= 4
+32. i= 3, j= 1, temp: 9, array[i]: 5, array[j]: 6
+Result: temp= 5, array[i]= 6, array[j]= 5
+33. i= 3, j= 2, temp: 5, array[i]: 6, array[j]: 9
+Result: temp= 6, array[i]= 9, array[j]= 6
+34. i= 3, j= 3, temp: 6, array[i]: 9, array[j]: 9
+Result: temp= 9, array[i]= 9, array[j]= 9
+35. i= 3, j= 4, temp: 9, array[i]: 9, array[j]: 2
+Result: temp= 9, array[i]= 9, array[j]= 2
+36. i= 3, j= 5, temp: 9, array[i]: 9, array[j]: 3
+Result: temp= 9, array[i]= 9, array[j]= 3
+37. i= 3, j= 6, temp: 9, array[i]: 9, array[j]: 7
+Result: temp= 9, array[i]= 9, array[j]= 7
+38. i= 3, j= 7, temp: 9, array[i]: 9, array[j]: 1
+Result: temp= 9, array[i]= 9, array[j]= 1
+39. i= 3, j= 8, temp: 9, array[i]: 9, array[j]: 8
+Result: temp= 9, array[i]= 9, array[j]= 8
+40. i= 3, j= 9, temp: 9, array[i]: 9, array[j]: 4
+Result: temp= 9, array[i]= 9, array[j]= 4
+41. i= 4, j= 0, temp: 9, array[i]: 2, array[j]: 4
+Result: temp= 2, array[i]= 4, array[j]= 2
+42. i= 4, j= 1, temp: 2, array[i]: 4, array[j]: 5
+Result: temp= 4, array[i]= 5, array[j]= 4
+43. i= 4, j= 2, temp: 4, array[i]: 5, array[j]: 6
+Result: temp= 5, array[i]= 6, array[j]= 5
+44. i= 4, j= 3, temp: 5, array[i]: 6, array[j]: 9
+Result: temp= 6, array[i]= 9, array[j]= 6
+45. i= 4, j= 4, temp: 6, array[i]: 9, array[j]: 9
+Result: temp= 9, array[i]= 9, array[j]= 9
+46. i= 4, j= 5, temp: 9, array[i]: 9, array[j]: 3
+Result: temp= 9, array[i]= 9, array[j]= 3
+47. i= 4, j= 6, temp: 9, array[i]: 9, array[j]: 7
+Result: temp= 9, array[i]= 9, array[j]= 7
+48. i= 4, j= 7, temp: 9, array[i]: 9, array[j]: 1
+Result: temp= 9, array[i]= 9, array[j]= 1
+49. i= 4, j= 8, temp: 9, array[i]: 9, array[j]: 8
+Result: temp= 9, array[i]= 9, array[j]= 8
+50. i= 4, j= 9, temp: 9, array[i]: 9, array[j]: 4
+Result: temp= 9, array[i]= 9, array[j]= 4
+51. i= 5, j= 0, temp: 9, array[i]: 3, array[j]: 2
+Result: temp= 9, array[i]= 3, array[j]= 2
+52. i= 5, j= 1, temp: 9, array[i]: 3, array[j]: 4
+Result: temp= 3, array[i]= 4, array[j]= 3
+53. i= 5, j= 2, temp: 3, array[i]: 4, array[j]: 5
+Result: temp= 4, array[i]= 5, array[j]= 4
+54. i= 5, j= 3, temp: 4, array[i]: 5, array[j]: 6
+Result: temp= 5, array[i]= 6, array[j]= 5
+55. i= 5, j= 4, temp: 5, array[i]: 6, array[j]: 9
+Result: temp= 6, array[i]= 9, array[j]= 6
+56. i= 5, j= 5, temp: 6, array[i]: 9, array[j]: 9
+Result: temp= 9, array[i]= 9, array[j]= 9
+57. i= 5, j= 6, temp: 9, array[i]: 9, array[j]: 7
+Result: temp= 9, array[i]= 9, array[j]= 7
+58. i= 5, j= 7, temp: 9, array[i]: 9, array[j]: 1
+Result: temp= 9, array[i]= 9, array[j]= 1
+59. i= 5, j= 8, temp: 9, array[i]: 9, array[j]: 8
+Result: temp= 9, array[i]= 9, array[j]= 8
+60. i= 5, j= 9, temp: 9, array[i]: 9, array[j]: 4
+Result: temp= 9, array[i]= 9, array[j]= 4
+61. i= 6, j= 0, temp: 9, array[i]: 7, array[j]: 2
+Result: temp= 9, array[i]= 7, array[j]= 2
+62. i= 6, j= 1, temp: 9, array[i]: 7, array[j]: 3
+Result: temp= 9, array[i]= 7, array[j]= 3
+63. i= 6, j= 2, temp: 9, array[i]: 7, array[j]: 4
+Result: temp= 9, array[i]= 7, array[j]= 4
+64. i= 6, j= 3, temp: 9, array[i]: 7, array[j]: 5
+Result: temp= 9, array[i]= 7, array[j]= 5
+65. i= 6, j= 4, temp: 9, array[i]: 7, array[j]: 6
+Result: temp= 9, array[i]= 7, array[j]= 6
+66. i= 6, j= 5, temp: 9, array[i]: 7, array[j]: 9
+Result: temp= 7, array[i]= 9, array[j]= 7
+67. i= 6, j= 6, temp: 7, array[i]: 9, array[j]: 9
+Result: temp= 9, array[i]= 9, array[j]= 9
+68. i= 6, j= 7, temp: 9, array[i]: 9, array[j]: 1
+Result: temp= 9, array[i]= 9, array[j]= 1
+69. i= 6, j= 8, temp: 9, array[i]: 9, array[j]: 8
+Result: temp= 9, array[i]= 9, array[j]= 8
+70. i= 6, j= 9, temp: 9, array[i]: 9, array[j]: 4
+Result: temp= 9, array[i]= 9, array[j]= 4
+71. i= 7, j= 0, temp: 9, array[i]: 1, array[j]: 2
+Result: temp= 1, array[i]= 2, array[j]= 1
+72. i= 7, j= 1, temp: 1, array[i]: 2, array[j]: 3
+Result: temp= 2, array[i]= 3, array[j]= 2
+73. i= 7, j= 2, temp: 2, array[i]: 3, array[j]: 4
+Result: temp= 3, array[i]= 4, array[j]= 3
+74. i= 7, j= 3, temp: 3, array[i]: 4, array[j]: 5
+Result: temp= 4, array[i]= 5, array[j]= 4
+75. i= 7, j= 4, temp: 4, array[i]: 5, array[j]: 6
+Result: temp= 5, array[i]= 6, array[j]= 5
+76. i= 7, j= 5, temp: 5, array[i]: 6, array[j]: 7
+Result: temp= 6, array[i]= 7, array[j]= 6
+77. i= 7, j= 6, temp: 6, array[i]: 7, array[j]: 9
+Result: temp= 7, array[i]= 9, array[j]= 7
+78. i= 7, j= 7, temp: 7, array[i]: 9, array[j]: 9
+Result: temp= 9, array[i]= 9, array[j]= 9
+79. i= 7, j= 8, temp: 9, array[i]: 9, array[j]: 8
+Result: temp= 9, array[i]= 9, array[j]= 8
+80. i= 7, j= 9, temp: 9, array[i]: 9, array[j]: 4
+Result: temp= 9, array[i]= 9, array[j]= 4
+81. i= 8, j= 0, temp: 9, array[i]: 8, array[j]: 1
+Result: temp= 9, array[i]= 8, array[j]= 1
+82. i= 8, j= 1, temp: 9, array[i]: 8, array[j]: 2
+Result: temp= 9, array[i]= 8, array[j]= 2
+83. i= 8, j= 2, temp: 9, array[i]: 8, array[j]: 3
+Result: temp= 9, array[i]= 8, array[j]= 3
+84. i= 8, j= 3, temp: 9, array[i]: 8, array[j]: 4
+Result: temp= 9, array[i]= 8, array[j]= 4
+85. i= 8, j= 4, temp: 9, array[i]: 8, array[j]: 5
+Result: temp= 9, array[i]= 8, array[j]= 5
+86. i= 8, j= 5, temp: 9, array[i]: 8, array[j]: 6
+Result: temp= 9, array[i]= 8, array[j]= 6
+87. i= 8, j= 6, temp: 9, array[i]: 8, array[j]: 7
+Result: temp= 9, array[i]= 8, array[j]= 7
+88. i= 8, j= 7, temp: 9, array[i]: 8, array[j]: 9
+Result: temp= 8, array[i]= 9, array[j]= 8
+89. i= 8, j= 8, temp: 8, array[i]: 9, array[j]: 9
+Result: temp= 9, array[i]= 9, array[j]= 9
+90. i= 8, j= 9, temp: 9, array[i]: 9, array[j]: 4
+Result: temp= 9, array[i]= 9, array[j]= 4
+91. i= 9, j= 0, temp: 9, array[i]: 4, array[j]: 1
+Result: temp= 9, array[i]= 4, array[j]= 1
+92. i= 9, j= 1, temp: 9, array[i]: 4, array[j]: 2
+Result: temp= 9, array[i]= 4, array[j]= 2
+93. i= 9, j= 2, temp: 9, array[i]: 4, array[j]: 3
+Result: temp= 9, array[i]= 4, array[j]= 3
+94. i= 9, j= 3, temp: 9, array[i]: 4, array[j]: 4
+Result: temp= 4, array[i]= 4, array[j]= 4
+95. i= 9, j= 4, temp: 4, array[i]: 4, array[j]: 5
+Result: temp= 4, array[i]= 5, array[j]= 4
+96. i= 9, j= 5, temp: 4, array[i]: 5, array[j]: 6
+Result: temp= 5, array[i]= 6, array[j]= 5
+97. i= 9, j= 6, temp: 5, array[i]: 6, array[j]: 7
+Result: temp= 6, array[i]= 7, array[j]= 6
+98. i= 9, j= 7, temp: 6, array[i]: 7, array[j]: 8
+Result: temp= 7, array[i]= 8, array[j]= 7
+99. i= 9, j= 8, temp: 7, array[i]: 8, array[j]: 9
+Result: temp= 8, array[i]= 9, array[j]= 8
+100. i= 9, j= 9, temp: 8, array[i]: 9, array[j]: 9
+Result: temp= 9, array[i]= 9, array[j]= 9
